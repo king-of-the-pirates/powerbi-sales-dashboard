@@ -2,18 +2,18 @@
 This project presents an interactive dashboard build in Power BI using Superstore sales dataset to analyze business performance and identify important sales trends.
 
 ## Skills used
--Data visualization
--Dashboard design
--Data modeling
--Power BI filters and slicers
--sales performance analysis
+- Data visualization
+- Dashboard design
+- Data modeling
+- Power BI filters and slicers
+- sales performance analysis
 
 ## Dashboard Insights
--Sales trend over time
--Regional sales performace
--Product category and sub-category analysis
--Customer segment insights
--Loss making sub-category
+- Sales trend over time
+- Regional sales performace
+- Product category and sub-category analysis
+- Customer segment insights
+- Loss making sub-category
 
 ## Project Structure
 powerbi-sales-dashboard
