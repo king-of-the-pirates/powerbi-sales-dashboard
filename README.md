@@ -27,7 +27,7 @@ powerbi-sales-dashboard
 |-
 | - ___Screenshots
 | - ___README.md
-| - ___Sales_performance_&_regional_profit_overview.pbix
+| - ___Sales_performance_and_regional_profit_overview.pbix
 
 ## Goal
 To create an interactive dashboard that helps visualize sales performance and allows users to explore key business metrics such as revenue trends, regional performance and product category sales.
