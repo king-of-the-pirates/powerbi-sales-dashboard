@@ -17,6 +17,7 @@ This project presents an interactive dashboard build in Power BI using Superstor
 
 ## Project Structure
 powerbi-sales-dashboard
+|-
 | - ___Screenshots
 | - ___README.md
 | - ___Sales_performace_&_regional_profit_overview.pbix
