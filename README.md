@@ -13,7 +13,7 @@ This project presents an interactive dashboard build in Power BI using Superstor
 ## State wise sales
 ! [State wise sales](screenshots/State_wise_sales_performance.png)
 ## Total sales by Sub-Category
-! [Sub_category_contribution_to_total_sales](screenshots/Sub_category_contribution_to_total_sales.png)
+! [Sub category contribution to total sales](screenshots/Sub_category_contribution_to_total_sales.png)
 
 ## Dashboard Insights
 - Sales trend over time
